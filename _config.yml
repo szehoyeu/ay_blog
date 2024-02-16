@@ -1,6 +1,6 @@
 # SITE CONFIGURATION                                   # Commenting multiple lines of codes: Crtl + ?
 # baseurl: "/ay_blog"
-url: "https://szehoyeu.github.io"
+# url: "https://szehoyeu.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Anthony's Site                                   # site's title
