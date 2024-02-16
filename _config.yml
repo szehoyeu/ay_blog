@@ -1,5 +1,5 @@
 # SITE CONFIGURATION                                   # Commenting multiple lines of codes: Crtl + ?
-baseurl: "/ay_blog"
+# baseurl: "/ay_blog"
 url: "https://szehoyeu.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
