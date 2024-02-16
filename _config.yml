@@ -1,6 +1,6 @@
 # SITE CONFIGURATION                                   # Commenting multiple lines of codes: Crtl + ?
-# baseurl: "/Type-on-Strap"
-# url: "https://sylhare.github.io"
+baseurl: "/ay_blog"
+url: "https://szehoyeu.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Anthony's Site                                   # site's title
@@ -38,8 +38,9 @@ comments:
     issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
 # PAGINATION
-paginate: 6
+paginate: 10
 paginate_path: "/blog/page:num"
+
 
 # PORTFOLIO
 collections:
